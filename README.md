@@ -1,4 +1,4 @@
-# Python — Files, Parsing, CLI
+# Python - Files, Parsing, CLI
 
 Three small exercises practicing file I/O, regex, `pathlib`, and a basic command-line dispatcher.
 
@@ -8,11 +8,11 @@ Three small exercises practicing file I/O, regex, `pathlib`, and a basic command
 
 ## Exercises
 
-### `hw4_1.py` — salary file parser
+### `hw4_1.py` - salary file parser
 
 `total_salary(path)` reads a text file where each line is `Last_Name,salary` and returns `(total, average)` over all rows. Returns `(0, 0)` and prints a message on bad paths or malformed input.
 
-### `hw4_2.py` — cats CSV parser
+### `hw4_2.py` - cats CSV parser
 
 `get_cats_info(path)` reads a CSV with `id,name,age` per line and returns a list of dicts:
 
@@ -22,7 +22,7 @@ Three small exercises practicing file I/O, regex, `pathlib`, and a basic command
 
 Returns `None` on path errors or rows that don't have exactly three fields.
 
-### `hw4_4.py` — contact CLI
+### `hw4_4.py` - contact CLI
 
 A simple in-memory contact dispatcher with these commands:
 
