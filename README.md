@@ -1,3 +1,5 @@
+[**English**](README.md) | [Українська](README.uk.md)
+
 # Python - Files, Parsing, CLI
 
 Three small exercises practicing file I/O, regex, `pathlib`, and a basic command-line dispatcher.
